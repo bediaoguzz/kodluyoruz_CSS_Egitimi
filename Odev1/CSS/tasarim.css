@@ -1,0 +1,35 @@
+h1 {
+    color: #B2A4FF;
+}
+
+h2 {
+    color: #d279d2;
+}
+
+h3 {
+    color: #FFB4B4;
+}
+
+ul.a {
+    list-style-position: inside;
+}
+
+ol.a {
+    list-style-position: inside;
+}
+
+
+.li {
+    display: inline;
+}
+
+img{
+    width:175px;
+    height:230px;
+}
+
+.p2 {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
