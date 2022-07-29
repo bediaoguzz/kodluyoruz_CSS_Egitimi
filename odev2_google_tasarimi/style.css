@@ -1,0 +1,15 @@
+div {
+    padding:15px;
+}
+
+
+div.a {
+    background-color: #EEEEEE;
+    margin-left:300px;
+    margin-right:300px;
+}
+
+table{
+    width:60%;
+    margin-left:300px;
+}
